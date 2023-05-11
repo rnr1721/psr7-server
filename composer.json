@@ -1,5 +1,5 @@
 {
-    "name": "nyholm/psr7-server",
+    "name": "rnr1721/psr7-server",
     "description": "Helper classes to handle PSR-7 server requests",
     "license": "MIT",
     "keywords": ["psr-7", "psr-17"],
